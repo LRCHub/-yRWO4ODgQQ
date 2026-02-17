@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "夜と幸せ",
+  "base_artist": "MIMI",
+  "createdAt": "2026-02-17T17:00:49.805440Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夜と幸せ (feat. 詩の出素。)",
+      "artist": "MIMI",
+      "has_synced": false,
+      "path": "select/pl_01_夜と幸せ_(feat._詩の出素。)_MIMI.txt"
+    }
+  ]
+}
